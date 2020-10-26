@@ -14,4 +14,4 @@
 
 7. Здати лінк на перевірку.
 
-https://github.com/IgorBoykov/J_Advanced_10.git
+
