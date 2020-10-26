@@ -13,3 +13,5 @@
 6. Зробити push у свій віддалений репозиторій на GitHub.
 
 7. Здати лінк на перевірку.
+
+gh repo clone IgorBoykov/J_Advanced_10
