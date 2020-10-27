@@ -1,0 +1,10 @@
+2020-10-16 13:48:05 ERROR UserImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2020-10-16 13:51:19 ERROR UserImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2020-10-16 14:06:14 ERROR UserImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2020-10-16 15:01:24 ERROR UserImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2020-10-16 15:07:57 ERROR UserImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2020-10-16 15:09:57 ERROR UserImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2020-10-16 15:49:05 ERROR UserImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2020-10-16 16:14:22 ERROR UserImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2020-10-16 16:18:52 ERROR UserImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2020-10-16 16:19:05 ERROR UserImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
